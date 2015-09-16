@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說一切如來烏瑟膩沙最勝總持經
+#+DATE: 2015-08-30 20:27:02.819347
+#+PROPERTY: JUAN 0
