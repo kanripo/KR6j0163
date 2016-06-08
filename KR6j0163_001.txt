@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:27:02.544951
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:26
 #+TITLE: 佛說一切如來烏瑟膩沙最勝總持經
 #+PROPERTY: CBETA_ID T19n0978
 #+PROPERTY: ID KR6j0163
